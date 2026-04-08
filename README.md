@@ -8,11 +8,9 @@ Mi experiencia en **Pusan National University (Corea del Sur)** me permitió per
 
 ### 🛠️ Mi Stack Tecnológico
 
-| Categoría | Herramientas y Lenguajes |
-| :--- | :--- |
-| **Lenguajes** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) |
-| **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
-| **Infra & SysAdmin** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white) ![Portainer](https://img.shields.io/badge/-Portainer-13BEFF?logo=portainer&logoColor=white) |
+* **Lenguajes:** ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+* **Cloud & DevOps:** ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+* **Infra & SysAdmin:** ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white) ![Portainer](https://img.shields.io/badge/-Portainer-13BEFF?logo=portainer&logoColor=white)
 
 ---
 
