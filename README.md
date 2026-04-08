@@ -1,41 +1,57 @@
-## Hi there 👋, I'm Antonio Jesús Angulo!
+# ¡Hola! Soy Antonio Jesús Angulo 👋
 
-[cite_start]I am a **Computer Engineering student** [cite: 1, 2] [cite_start]in my final year at the **University of Almería** [cite: 6, 11][cite_start], passionate about software development, Cloud Computing, and Artificial Intelligence[cite: 6]. 
+Estudiante de último año de **Ingeniería Informática** en la **Universidad de Almería**. Mi enfoque combina el desarrollo de software con la potencia del **Cloud Computing** y la **Inteligencia Artificial**.
 
-[cite_start]I recently expanded my international perspective through an Erasmus program at **Pusan National University** in South Korea [cite: 14, 15][cite_start], where I focused on emerging technologies and multicultural collaboration[cite: 16].
+Mi experiencia en **Pusan National University (Corea del Sur)** me permitió perfeccionar mi capacidad de resolución de problemas en entornos globales de alta tecnología.
+
+---
+
+### 🛠️ Mi Stack Tecnológico
+
+| Categoría | Herramientas y Lenguajes |
+| :--- | :--- |
+| **Lenguajes** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) |
+| **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+| **Infra & SysAdmin** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white) ![Portainer](https://img.shields.io/badge/-Portainer-13BEFF?logo=portainer&logoColor=white) |
 
 ---
 
-### 🔭 I’m currently working on
-* [cite_start]Completing my degree in **Computer Engineering** at UAL[cite: 10, 11, 12].
-* [cite_start]Exploring advanced implementations in **Microsoft Azure** for industrial environments[cite: 33].
+### 🚀 Proyectos Destacados
 
-### 🌱 I’m currently learning
-* [cite_start]**Generative AI** and its practical applications[cite: 35].
-* [cite_start]Container orchestration with **Kubernetes (K8s)** and **Docker**[cite: 35].
-* [cite_start]Full-stack web development optimization[cite: 55, 56].
+#### 🏐 [Object Detection in Volleyball with YOLOv8](https://tu-link-al-repo.com)
+* **Descripción:** Entrenamiento y comparación de modelos **YOLOv8n** y **YOLOv8s** para la detección en tiempo real de jugadores y balones.
+* **Tech Stack:** Python, Ultralytics (YOLOv8), Computer Vision, OpenCV.
+* **Logro:** Análisis comparativo de métricas (mAP, FPS) para optimizar el balance entre precisión y velocidad en entornos deportivos.
 
-### 🛠️ Tech Stack
-* [cite_start]**Languages:** Java, Python, JavaScript, SQL, HTML5/CSS3[cite: 24, 25].
-* [cite_start]**Cloud & Tools:** Microsoft Azure, Git/GitHub, Docker, Kubernetes[cite: 34, 35].
-* [cite_start]**Methodologies:** Team dynamics in multinational environments (Michelin CEMA)[cite: 30, 37].
-
-### 💬 Ask me about
-* [cite_start]**Cloud Computing:** Experiences with Azure scalability[cite: 33].
-* [cite_start]**International Experience:** My time studying and collaborating in South Korea[cite: 7, 15].
-* [cite_start]**Software Development:** Java and Python projects[cite: 6, 54].
-
-### 📫 How to reach me
-* [cite_start]**Email:** [antoniojesus184@gmail.com](mailto:antoniojesus184@gmail.com) [cite: 21]
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
-* [cite_start]**GitHub:** [github.com/Antonyma](https://github.com/Antonyma) [cite: 22]
-
-### ⚡ Fun fact
-* [cite_start]I have experience as a **Volleyball Referee**, which helped me develop quick decision-making skills under pressure[cite: 45].
-* [cite_start]I speak **Spanish** (Native) and **English** (B2 level)[cite: 50].
+#### 🏠 [Home Lab & AI Assistant](https://tu-link-al-repo.com)
+* **Descripción:** Configuración de un servidor doméstico basado en **Raspberry Pi** para automatización y servicios locales.
+* **Infraestructura:** Gestión de contenedores con **Docker** y **Portainer**.
+* **IA Integrada:** Implementación de un asistente virtual inteligente utilizando **OpenClaw**.
 
 ---
-[![Antonyma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonyma&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🔭 En qué estoy trabajando
+* 🎓 **Grado en Ingeniería Informática:** Finalizando mis estudios en la UAL.
+* ☁️ **Azure for Industry:** Implementando soluciones avanzadas de Cloud en entornos industriales.
+* 🤖 **GenAI:** Creando aplicaciones prácticas con Inteligencia Artificial Generativa.
+
+### ⚙️ "Cacharreo" & Hardware
+No solo escribo código, también me apasiona el **"bare metal"**:
+* **SysAdmin:** Administración de redes y sistemas Linux.
+* **Hardware:** Montaje y optimización de equipos de alto rendimiento.
+* **Self-hosting:** Convirtiendo hardware limitado en centros de cómputo eficientes.
+
+---
+
+### ⚡ Datos curiosos
+* **Toma de decisiones:** Mi faceta como **Árbitro de Voleibol** me enseñó a mantener la calma y decidir con rapidez bajo presión. 
+* **Internacional:** Estudiante Erasmus en Busan, Corea del Sur.
+* **Idiomas:** Español (Nativo) e Inglés (B2). 
+---
+
+### 📫 Conectemos
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antoniojesusangulomagdaleno)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:antoniojesus184@gmail.com)
 
 <!--
 **Antonyma/Antonyma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
