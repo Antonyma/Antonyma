@@ -1,7 +1,5 @@
 # ¡Hola! Soy Antonio Jesús Angulo 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniojesusangulomagdaleno) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniojesus184@gmail.com)
-
 Estudiante de último año de **Ingeniería Informática** en la **Universidad de Almería** 📍 Almería, España.
 Me interesa la intersección entre **Visión por Computador**, **Inteligencia Artificial** y **Cloud**, con especial gusto por el hardware y el self-hosting.
 
