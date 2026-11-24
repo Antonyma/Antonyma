@@ -25,7 +25,7 @@ Incluye scripts con CLI para entrenamiento e inferencia en imagen, vídeo y webc
 - **Stack:** Python, Ultralytics, PyTorch, OpenCV, Roboflow.
 - **Resultado:** análisis de mAP global y por clase; YOLOv8s alcanzó un 91,0 % de mAP@0,5 (98,9 % en `Player`, 88,3 % en `Ball`) frente al 11,1 % del modelo Nano.
 
-#### 🏠 Home Lab en Raspberry Pi *(en preparación — añadir enlace al repo cuando lo publiques)*
+#### 🏠 [Home Lab en Raspberry Pi](https://github.com/Antonyma/homelab)
 
 Servidor doméstico basado en **Raspberry Pi 4 (8 GB)** con **Debian 13**, que ejecuta 16 contenedores Docker: **Portainer, Nginx Proxy Manager, Homarr, Vaultwarden, Uptime Kuma, Dozzle, AdGuard Home, Home Assistant y MQTT**, entre otros.
 
